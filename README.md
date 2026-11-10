@@ -39,7 +39,14 @@ The seven dashboard views let a reviewer explore real data, not mock outputs:
 |:--:|:--:|
 | ![Customer segmentation page](assets/screenshots/customer-desktop.png) | ![Model performance page](assets/screenshots/performance-desktop.png) |
 
-> **Live demo:** Publish `app.py` via [Streamlit Community Cloud](https://share.streamlit.io/) after pushing the repository. Add the deployed URL here once verified.
+
+### 🚀 Live Demo
+
+[**Launch Customer Segmentation Intelligence**](https://wholesale-customer-segmentation-ml.streamlit.app)
+
+Explore seven interactive dashboards, analyze wholesale purchasing behavior, compare customer segments, and inspect PCA and K-Means results.
+
+**[Live Application](https://wholesale-customer-segmentation-ml.streamlit.app)** | **[GitHub Repository](https://github.com/mohab-yasser/customer-segmentation-intelligence)**
 
 ## Machine learning workflow
 
