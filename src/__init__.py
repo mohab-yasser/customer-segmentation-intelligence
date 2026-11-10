@@ -1,0 +1,1 @@
+"""Frozen customer segmentation application."""
